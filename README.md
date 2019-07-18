@@ -1,2 +1,2 @@
 # recsys2019challenge
-RecSys 2019 Challenge (OSI LAB)
+recsys2019challenge (team: OSI LAB, final score: 0.670167 (16th place))
